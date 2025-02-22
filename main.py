@@ -15,6 +15,7 @@ play(player, kris, 1000, verbose=True)
 print("\nTesting against Mrugesh:")
 play(player, mrugesh, 1000, verbose=True)  
 
+main(module='test_module', exit=False)
 
 # Uncomment line below to play interactively against a bot:
 # play(human, abbey, 20, verbose=True)
