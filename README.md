@@ -30,7 +30,6 @@ play(player1, player2, num_games[, verbose])
 
 For example, here is how you would call the function if you want player and quincy to play 1000 games against each other and you want to see the results of each game:
 
-```python
 play(player, quincy, 1000, verbose=True)
 
 Click the "run" button and main.py will run.
