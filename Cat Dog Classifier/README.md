@@ -30,6 +30,7 @@ After you run the code, the output should look like this:
 Found 2000 images belonging to 2 classes.
 Found 1000 images belonging to 2 classes.
 Found 50 images belonging to 1 class.
+
 **Cell 4**
 The plotImages function will be used a few times to plot images. It takes an array of images and a probabilities list, although the probabilities list is optional. This code is given to you. If you created the train_data_gen variable correctly, then running this cell will plot five random training images.
 
