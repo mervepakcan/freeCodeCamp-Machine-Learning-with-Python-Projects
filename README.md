@@ -8,7 +8,7 @@ Each folder contains one project, its code (mostly in Google Colab), and some ex
 
 - **Book Recommendation** – Finds similar books based on a given one using cosine similarity.
 - **Cat Dog Classifier** – CNN model that classifies cat vs dog images using TensorFlow.
-- **Linear Regression Health Costs** – Predicts medical insurance costs using regression.
+- **Linear Regression Health Costs** – Neural network regression model predicting expenses with MAE under $3,000.
 - **Neural Network SMS Text Classifier** – Classifies SMS messages as spam or ham.
 - **Rock Paper Scissors** – Strategy-based function that adapts to opponent patterns to improve win rate.
 
