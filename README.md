@@ -10,7 +10,7 @@ Each folder contains one project, its code (mostly in Google Colab), and some ex
 - **Cat Dog Classifier** – CNN model that classifies cat vs dog images using TensorFlow.
 - **Linear Regression Health Costs** – Predicts medical insurance costs using regression.
 - **Neural Network SMS Text Classifier** – Classifies SMS messages as spam or ham.
-- **Rock Paper Scissors** – A simple LSTM model that plays rock-paper-scissors.
+- **Rock Paper Scissors** – Strategy-based function that adapts to opponent patterns to improve win rate.
 
 ## Certification
 
