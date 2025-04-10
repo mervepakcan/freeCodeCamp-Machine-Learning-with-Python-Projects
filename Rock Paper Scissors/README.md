@@ -41,7 +41,4 @@ The unit tests for this project are in `test_module.py`.
 We imported the tests from `test_module.py` to `main.py` for your convenience.  
 If you uncomment the last line in `main.py`, the tests will run automatically whenever you hit the **"run"** button.
 
-## Submitting
-
-Copy your project's **URL** and submit it to freeCodeCamp.
 
